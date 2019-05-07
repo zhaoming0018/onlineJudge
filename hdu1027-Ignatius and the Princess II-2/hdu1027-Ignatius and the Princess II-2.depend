@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555255566 source:c:\users\sunshine\documents\codeblocks\hdu1027-ignatius and the princess ii-2\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<algorithm>
+

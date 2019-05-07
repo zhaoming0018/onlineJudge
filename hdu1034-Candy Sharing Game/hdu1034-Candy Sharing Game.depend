@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555554858 source:c:\users\sunshine\documents\codeblocks\hdu1034-candy sharing game\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

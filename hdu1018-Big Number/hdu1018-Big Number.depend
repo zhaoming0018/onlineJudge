@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554266271 source:c:\users\sunshine\documents\codeblocks\hdu1018-big number\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

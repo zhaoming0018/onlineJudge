@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553836535 source:c:\users\sunshine\documents\codeblocks\hdu1010-tempter of the bone\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

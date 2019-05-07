@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555385937 source:c:\users\sunshine\documents\codeblocks\hdu1030-delta-wave\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554258116 source:c:\users\sunshine\documents\codeblocks\hdu1015-safecracker\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

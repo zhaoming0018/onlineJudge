@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553689028 source:c:\users\sunshine\documents\codeblocks\huanwei-02\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

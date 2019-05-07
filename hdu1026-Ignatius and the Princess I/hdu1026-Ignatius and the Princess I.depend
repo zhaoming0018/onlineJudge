@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555178215 source:c:\users\sunshine\documents\codeblocks\hdu1026-ignatius and the princess i\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+

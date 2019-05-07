@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553687187 source:c:\users\sunshine\documents\codeblocks\huawei-01\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

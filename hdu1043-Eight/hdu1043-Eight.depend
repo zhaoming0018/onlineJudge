@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555814514 source:c:\users\sunshine\documents\codeblocks\hdu1043-eight\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<ctype.h>
+

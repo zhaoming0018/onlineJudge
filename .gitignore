@@ -1,2 +1,6 @@
 .vscode/
 main
+bin/
+obj/
+*.cbp
+*.layout
